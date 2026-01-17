@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Mariya-Skakalina/yandex-praktikum-analytics-2025-2026/blob/main/Video%20Game%20Market%20Analysis%20(2000-2013)/trends_in_video_games_2000_2013.ipynb)
+https://colab.research.google.com/github/Mariya-Skakalina/yandex-praktikum-analytics-2025-2026/blob/main/video_games_analysis_2000_2013/trends_in_video_games_2000_2013.ipynb)
 
 # Анализ рынка видеоигр (2000–2013): ключевые тренды и перспективы RPG
 
