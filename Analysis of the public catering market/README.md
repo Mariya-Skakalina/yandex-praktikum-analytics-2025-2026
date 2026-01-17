@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Mariya-Skakalina/yandex-praktikum-analytics-2025-2026/blob/main/Analysis%20of%20the%20public%20catering%20market/eda_restaurant_market_moscow.ipynb)
+
 # Проект 1: Анализ рынка общепита Москвы
 
 ### Задача
