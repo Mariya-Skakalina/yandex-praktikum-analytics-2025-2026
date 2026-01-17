@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Mariya-Skakalina/yandex-praktikum-analytics-2025-2026/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80%20(2000%E2%80%932013)/trends_in_video_games_2000_2013.ipynb)
+
 # Проект: Анализ рынка общепита Москвы
 
 ### Задача
