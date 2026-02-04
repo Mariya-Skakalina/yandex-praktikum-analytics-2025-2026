@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Mariya-Skakalina/yandex-praktikum-analytics-2025-2026/blob/main/startup_research/startup_investigation_2015.ipynb.ipynb)
+https://colab.research.google.com/github/Mariya-Skakalina/yandex-praktikum-analytics-2025-2026/blob/main/startup_research/startup_investigation_2015.ipynb)
 
 
 # Анализ инвестиционной активности стартапов
