@@ -24,11 +24,6 @@ https://colab.research.google.com/github/Mariya-Skakalina/yandex-praktikum-analy
    - Мало булочных → низкая конкуренция  
    - Средний чек в ЦАО для булочных ≈1238 ₽ (на 400–600 ₽ выше, чем в спальных районах)
 
-### Структура проекта
-- `01_obshchepit_moscow.ipynb` — основной ноутбук с анализом и выводами  
-- `data/` — исходные файлы (rest_info_df.csv, rest_price_df.csv)  
-- `images/` — графики (если сохраняла отдельно)
-
 ### Технологии
 - Python 3  
 - pandas, numpy  
